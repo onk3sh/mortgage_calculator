@@ -1,0 +1,20 @@
+MORTGAGE STRATEGY ANALYSIS (3-Year Horizon)
+============================================================
+Initial Loan Amount: $672,000
+Amortization Period: 30 years
+
+BEST PERFORMERS:
+• Highest Equity Built: Variable (Fixed Payment) - 7.24%
+• Lowest Total Interest: Variable (Fixed Payment) - $67,759
+• Lowest Total Payments: Variable (Recalc Payment) - $108,408
+
+STRATEGY COMPARISONS:
+• Variable (Fixed) vs Fixed Interest Savings: $7,949
+• Variable (Recalc) vs Fixed Interest Savings: $7,699
+• Variable (Fixed) vs Fixed Equity Difference: +1.61%
+• Variable (Recalc) vs Fixed Equity Difference: +0.38%
+• Split Strategy Balance: 6.43% equity built
+
+RATE CUT IMPACT:
+• Total rate cuts: 1.0% over 24 months
+• Variable rate benefit: 1.00% rate reduction
