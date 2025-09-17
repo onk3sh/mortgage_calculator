@@ -115,8 +115,8 @@ def get_summary_data(scenario):
     try:
         # Map scenario to folder name
         folder_map = {
-            'conservative': 'conservative_scenario_output',
-            'aggressive': 'aggressive_scenario_output'
+            'conservative': 'scenarios/conservative_scenario_output',
+            'aggressive': 'scenarios/aggressive_scenario_output'
         }
 
         folder = folder_map.get(scenario)
@@ -180,8 +180,8 @@ def get_details_data(scenario):
     try:
         # Map scenario to folder name
         folder_map = {
-            'conservative': 'conservative_scenario_output',
-            'aggressive': 'aggressive_scenario_output'
+            'conservative': 'scenarios/conservative_scenario_output',
+            'aggressive': 'scenarios/aggressive_scenario_output'
         }
 
         folder = folder_map.get(scenario)
@@ -220,8 +220,8 @@ def get_analysis_data(scenario):
     try:
         # Map scenario to folder name
         folder_map = {
-            'conservative': 'conservative_scenario_output',
-            'aggressive': 'aggressive_scenario_output'
+            'conservative': 'scenarios/conservative_scenario_output',
+            'aggressive': 'scenarios/aggressive_scenario_output'
         }
 
         folder = folder_map.get(scenario)
